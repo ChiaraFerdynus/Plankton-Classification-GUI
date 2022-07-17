@@ -4,6 +4,7 @@ Plankton Classification GUI based on two underlying models
 Required files:
 GUI_remakev1.py
   This file contains the GUI framework and when run on its own (with all additional files, libraries and packages downloaded) can be run and execute the classification
+  MSS_resize.png, new_sie_uoa.png & octopus.ico are required if to be shown in GUI
 
 predict_Chiara.py
   This file contains the prediction and classification based on alternative model, developed by (??), code was adapted to be included in GUI
