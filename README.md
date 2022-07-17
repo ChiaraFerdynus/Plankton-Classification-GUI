@@ -16,3 +16,5 @@ ImageExtraction.py
 LoadPredictStore.py
   This file contains the prediction and classification based on model developed for thesis by Chiara
   Weights: modelProperv4.hdf5
+
+Please note that there are multiple packages that are required for the GUI and the individual .py files to run, at times even specific versions, so please read the files carefully and make sure all packages are imported appropriately.
