@@ -7,7 +7,7 @@ GUI_remakev1.py
 
 predict_Chiara.py
   This file contains the prediction and classification based on alternative model, developed by (??), code was adapted to be included in GUI
-  Model Associated: VGG16; Weights: last1.h5
+  Model Associated: VGG16; Weights: last1.h5 (file too large to be uploaded, please contact me at chiara.ferdynus@gmail.com if required)
   
 ImageExtraction.py
   This file is required to extract single images from a frame of images
